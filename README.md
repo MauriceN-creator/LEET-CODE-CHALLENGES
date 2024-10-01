@@ -22,9 +22,18 @@ This consisitsof various challenges I have been doing to better my coding skills
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0225-implement-stack-using-queues) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/1552-build-an-array-with-stack-operations) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
