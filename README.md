@@ -1,39 +1,11 @@
-# LEET-CODE-CHALLENGES
-This consisitsof various challenges I have been doing to better my coding skills
+# LeetCode
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0007-reverse-integer) |
-## Linked List
-|  |
-| ------- |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
-## Array
-|  |
-| ------- |
-| [1552-build-an-array-with-stack-operations](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/1552-build-an-array-with-stack-operations) |
-## Stack
-|  |
-| ------- |
-| [0225-implement-stack-using-queues](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0225-implement-stack-using-queues) |
-| [1552-build-an-array-with-stack-operations](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/1552-build-an-array-with-stack-operations) |
-## Simulation
-|  |
-| ------- |
-| [1552-build-an-array-with-stack-operations](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/1552-build-an-array-with-stack-operations) |
-## Design
-|  |
-| ------- |
-| [0225-implement-stack-using-queues](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0225-implement-stack-using-queues) |
-## Queue
-|  |
-| ------- |
-| [0225-implement-stack-using-queues](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0225-implement-stack-using-queues) |
-<!---LeetCode Topics End-->
+This repository contains my solutions to LeetCode problems.
+
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+
+ Happy coding! 🚀
