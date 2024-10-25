@@ -66,4 +66,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0133-clone-graph) |
+| [1916-find-center-of-star-graph](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
