@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0133-clone-graph](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0145-binary-tree-postorder-traversal) |
+| [2439-longest-cycle-in-a-graph](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,4 +68,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0133-clone-graph](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/0133-clone-graph) |
 | [1916-find-center-of-star-graph](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/1916-find-center-of-star-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/2439-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/MauriceN-creator/LEET-CODE-CHALLENGES/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
